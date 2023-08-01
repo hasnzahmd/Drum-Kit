@@ -33,11 +33,6 @@ h1 {
   background-color: white;
 }
 
-footer p{
-  margin-top: -80px;
-  margin-bottom: 120px;
-}
-
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;
